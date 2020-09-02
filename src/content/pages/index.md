@@ -1,9 +1,9 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Kartik Sorathiya
+tagline: Solution Architect
+featuredImage: /assets/img_3100.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
